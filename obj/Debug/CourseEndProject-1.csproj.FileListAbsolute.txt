@@ -1,0 +1,8 @@
+E:\C#Prog\CourseEndProject-1\CourseEndProject-1\bin\Debug\CourseEndProject-1.exe.config
+E:\C#Prog\CourseEndProject-1\CourseEndProject-1\bin\Debug\CourseEndProject-1.exe
+E:\C#Prog\CourseEndProject-1\CourseEndProject-1\bin\Debug\CourseEndProject-1.pdb
+E:\C#Prog\CourseEndProject-1\CourseEndProject-1\obj\Debug\CourseEndProject-1.csproj.AssemblyReference.cache
+E:\C#Prog\CourseEndProject-1\CourseEndProject-1\obj\Debug\CourseEndProject-1.csproj.SuggestedBindingRedirects.cache
+E:\C#Prog\CourseEndProject-1\CourseEndProject-1\obj\Debug\CourseEndProject-1.csproj.CoreCompileInputs.cache
+E:\C#Prog\CourseEndProject-1\CourseEndProject-1\obj\Debug\CourseEndProject-1.exe
+E:\C#Prog\CourseEndProject-1\CourseEndProject-1\obj\Debug\CourseEndProject-1.pdb
